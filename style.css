@@ -1,0 +1,17 @@
+body{
+    background-color: navajowhite;
+    color: purple;
+}
+.heading{
+    width: 80%;
+    font-size: large;
+}
+.objects{
+    color: rgb(131, 129, 238);
+}
+#camera{
+    border: 2px solid;
+    border-color: white;
+    width: 350px;
+    height: 350px;
+}
